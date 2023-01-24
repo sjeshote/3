@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(225, 86, 225, 0.826);
+    font-size: 21px;
+    color: rgba(100, 7, 100, 0.612);
+    font-family: sans-serif;
+}
+
+p {
+    color: white
+}
+
+h1 {
+    font-size: 30px;
+}
